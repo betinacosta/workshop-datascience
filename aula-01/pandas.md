@@ -126,3 +126,9 @@ merge = pd.merge(dataframe_pop, dataframe_turismo, on='country')
 __Resultado__
 
 ![dataframe turiemo](imagens/merge.png)
+
+## Saiba Mais
+
+- [Intermediate Python for Data Science (DataCamp)](https://campus.datacamp.com/courses/intermediate-python-for-data-science/)
+
+### [>>> Próximo Capitulo - Mão na Massa!](handson.md)
