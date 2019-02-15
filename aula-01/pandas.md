@@ -132,3 +132,4 @@ __Resultado__
 - [Intermediate Python for Data Science (DataCamp)](https://campus.datacamp.com/courses/intermediate-python-for-data-science/)
 
 ### [>>> Próximo Capitulo - Mão na Massa!](handson.md)
+### [>>> Capitulo Anterior - Python Básico](handson.md)

@@ -25,3 +25,5 @@ $ jupyter notebook
 5. Abra os notebooks com os exercícios
 
 6. PROFIT \o/
+
+### [>>> Capitulo Anterior - Pandas](handson.md)
